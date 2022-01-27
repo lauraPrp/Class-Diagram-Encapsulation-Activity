@@ -1,12 +1,10 @@
 package com.techreturners.encapsulation.app;
 
-import com.techreturners.exercises_mix.Group;
-import com.techreturners.exercises_mix.Student;
+import com.techreturners.encapsulation.model.Student;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Locale;
 
 public class Main {
 

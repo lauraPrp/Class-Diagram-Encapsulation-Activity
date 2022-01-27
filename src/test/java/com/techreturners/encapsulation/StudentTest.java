@@ -1,6 +1,7 @@
 package com.techreturners.encapsulation;
 
-
+import com.techreturners.encapsulation.model.Group;
+import com.techreturners.encapsulation.model.Student;
 import org.junit.Ignore;
 import org.junit.Test;
 
